@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
