@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
@@ -63,9 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
