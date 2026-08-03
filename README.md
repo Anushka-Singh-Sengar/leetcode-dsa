@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Game Theory
 |  |
 | ------- |
