@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
