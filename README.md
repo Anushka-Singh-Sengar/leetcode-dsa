@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
+| [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2785-sort-vowels-in-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
 ## Simulation
@@ -108,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
