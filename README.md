@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -180,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
