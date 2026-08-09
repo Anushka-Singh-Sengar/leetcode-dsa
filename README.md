@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2785-sort-vowels-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3612-process-string-with-special-operations-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
