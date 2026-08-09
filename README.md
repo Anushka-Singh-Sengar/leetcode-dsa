@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1191-k-concatenation-maximum-sum) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1191-k-concatenation-maximum-sum) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -157,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
