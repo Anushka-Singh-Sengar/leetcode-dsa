@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1191-k-concatenation-maximum-sum) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Game Theory
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1510-stone-game-iv) |
 ## Hash Table
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1510-stone-game-iv) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
