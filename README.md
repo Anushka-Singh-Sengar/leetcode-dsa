@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0047-permutations-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2785-sort-vowels-in-a-string) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0047-permutations-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
