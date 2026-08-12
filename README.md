@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0049-group-anagrams) |
+| [0065-valid-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0091-decode-ways) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
