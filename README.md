@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -255,4 +256,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
