@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3731-find-missing-elements) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0091-decode-ways) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2785-sort-vowels-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -257,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0050-powx-n) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
