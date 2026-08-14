@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0091-decode-ways) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0089-gray-code) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 ## Recursion
 |  |
 | ------- |
