@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
