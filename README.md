@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1191-k-concatenation-maximum-sum) |
+| [1386-cinema-seat-allocation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2029-stone-game-ix](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2029-stone-game-ix) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [1386-cinema-seat-allocation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0055-jump-game) |
+| [1386-cinema-seat-allocation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0089-gray-code) |
+| [1386-cinema-seat-allocation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 ## Tree
 |  |
 | ------- |
