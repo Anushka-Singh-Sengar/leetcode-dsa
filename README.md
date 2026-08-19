@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
+| [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -321,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
