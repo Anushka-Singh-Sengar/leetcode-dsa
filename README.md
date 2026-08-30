@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0232-implement-queue-using-stacks) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Nim Game
 |  |
 | ------- |
