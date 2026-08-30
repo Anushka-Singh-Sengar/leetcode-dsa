@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0134-gas-station) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2785-sort-vowels-in-a-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0075-sort-colors) |
 ## Memoization
 |  |
 | ------- |
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
