@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
