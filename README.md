@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0089-gray-code) |
+| [1096-brace-expansion-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -311,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
