@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -180,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [2029-stone-game-ix](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2029-stone-game-ix) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -535,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1401-circle-and-rectangle-overlapping) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
