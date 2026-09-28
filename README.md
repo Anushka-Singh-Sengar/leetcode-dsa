@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1920-build-array-from-permutation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [2029-stone-game-ix](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3498-reverse-degree-of-a-string) |
