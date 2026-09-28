@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
