@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0169-majority-element) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
