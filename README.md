@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0049-group-anagrams) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0141-linked-list-cycle) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0079-word-search) |
