@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [2029-stone-game-ix](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2785-sort-vowels-in-a-string](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
