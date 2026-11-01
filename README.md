@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0435-non-overlapping-intervals) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0835-image-overlap) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1140-stone-game-ii) |
