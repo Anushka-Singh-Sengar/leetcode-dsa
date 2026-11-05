@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1191-k-concatenation-maximum-sum) |
 | [1254-number-of-closed-islands](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0099-recover-binary-search-tree](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/0099-recover-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anushka-Singh-Sengar/leetcode-dsa/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
